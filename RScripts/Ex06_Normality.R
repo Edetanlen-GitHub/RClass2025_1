@@ -1,5 +1,5 @@
 pacman::p_load(
-  conflicted, tidyverse, wrappedtools,
+  conflicted, tidyverse, wrappedtools, usethis,
   palmerpenguins, ggbeeswarm, hrbrthemes, plotly
 )
 # conflict_scout()
