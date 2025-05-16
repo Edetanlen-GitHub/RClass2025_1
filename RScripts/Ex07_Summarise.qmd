@@ -1,0 +1,42 @@
+---
+title: "Happy Penguins Exercise 07"
+author: "Michael"
+format: 
+  docx:
+    reference-doc: C:/Users/mykeg/Desktop/MOE/Academic/Training/Computer training/Bioinformatics/Module 4 - Applied Biostatistics/RClass2025_1/RScripts/demo2025New.docx
+    output-file: 
+    output-dir: 
+    toc: true
+    toc-depth: 5
+editor: visual
+execute: 
+  echo: true
+  warning: false
+  output: asis
+fig-dpi: 300
+fig-width: 6
+fig-height: 3.2
+tbl-cap-location: top
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
